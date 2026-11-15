@@ -1,14 +1,16 @@
 # TiviOS Feather source
 
-Public distribution assets for TiviOS. Add the source below in Feather:
+Public distribution assets for TiviOS and TiviOS2. Add or refresh this source in Feather to install either app:
 
 https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/source.json
 
-The application code is maintained separately. The published IPA is available to anyone. Feather signs the IPA locally using the user's own certificate.
+TiviOS2 brings the Abendprogramm design to iPhone. It uses a separate app identifier so both apps can be installed side by side.
+
+The application code is maintained separately. The published IPAs are available to anyone. Feather signs each IPA locally using the user's own certificate.
 
 ## Third-party software
 
-TiviOS uses MobileVLCKit 3.7.3 by VideoLAN and contributors, distributed under the GNU Lesser General Public License, version 2.1 or later. The license text is available in [MobileVLCKit-COPYING.txt](MobileVLCKit-COPYING.txt). MobileVLCKit is dynamically linked.
+Both apps use MobileVLCKit 3.7.3 by VideoLAN and contributors, distributed under the GNU Lesser General Public License, version 2.1 or later. The license text is available in [MobileVLCKit-COPYING.txt](MobileVLCKit-COPYING.txt). MobileVLCKit is dynamically linked.
 
 VideoLAN VLCKit source and build instructions: https://code.videolan.org/videolan/VLCKit
 
