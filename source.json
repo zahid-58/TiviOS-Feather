@@ -4,12 +4,20 @@
   "iconURL": "https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/AppIcon.png",
   "apps": [
     {
+      "appPermissions": {},
       "name": "TiviOS",
       "bundleIdentifier": "com.zahid.TiviOS",
       "developerName": "Zahid",
       "iconURL": "https://raw.githubusercontent.com/zahid-58/TiviOS-Feather/refs/heads/main/AppIcon.png",
       "localizedDescription": "Die iPhone-Version von TiviMac.",
       "versions": [
+        {
+          "version": "1.3.0",
+          "date": "2026-11-17T23:50:38Z",
+          "size": 18493992,
+          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.0/TiviOS.ipa",
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.2.0",
           "date": "2026-11-15T01:39:58Z",
@@ -18,12 +26,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "appPermissions": {},
-      "version": "1.2.0",
-      "versionDate": "2026-11-15T01:39:58Z",
-      "size": 18251904,
-      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.2.0/TiviOS.ipa",
-      "buildVersion": "5"
+      "version": "1.3.0",
+      "versionDate": "2026-11-17T23:50:38Z",
+      "size": 18493992,
+      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/v1.3.0/TiviOS.ipa",
+      "buildVersion": "6"
     },
     {
       "appPermissions": {},
