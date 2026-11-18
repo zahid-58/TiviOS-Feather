@@ -58,9 +58,16 @@
       "name": "TiviOS2",
       "bundleIdentifier": "com.zahid.TiviOS2",
       "developerName": "Zahid",
-      "iconURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.2/TiviOS2-AppIcon.png",
+      "iconURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.3/TiviOS2-AppIcon.png",
       "localizedDescription": "Live-TV, Filme und Serien mit dem neuen Abendprogramm.",
       "versions": [
+        {
+          "version": "1.1.3",
+          "date": "2026-11-18T00:38:44Z",
+          "size": 17806852,
+          "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.3/TiviOS2.ipa",
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.1.2",
           "date": "2026-11-18T00:25:05Z",
@@ -90,11 +97,11 @@
           "minOSVersion": "17.0"
         }
       ],
-      "version": "1.1.2",
-      "versionDate": "2026-11-18T00:25:05Z",
-      "size": 17805084,
-      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.2/TiviOS2.ipa",
-      "buildVersion": "4"
+      "version": "1.1.3",
+      "versionDate": "2026-11-18T00:38:44Z",
+      "size": 17806852,
+      "downloadURL": "https://github.com/zahid-58/TiviOS-Feather/releases/download/tivios2-v1.1.3/TiviOS2.ipa",
+      "buildVersion": "5"
     }
   ],
   "news": []
